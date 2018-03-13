@@ -4,8 +4,8 @@
 template<typename Item_Type>
 class infixStack {
 
-private:
+	private:
 
-public:
+	public:
 
 };
